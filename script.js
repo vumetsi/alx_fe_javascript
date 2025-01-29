@@ -74,3 +74,4 @@ document.addEventListener('DOMContentLoaded', function () {
     addQuoteBtn.addEventListener('click', addQuote);
     categorySelect.addEventListener('change', showRandomQuote);
 });
+
